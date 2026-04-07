@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Common Exterior Painting Questions — Baldwin Hills",
+    "text": "Common Exterior Painting Questions — Baldwin Hills",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Clients in Baldwin Hills frequently ask these questions about Exterior Painting. Y.O.R. Construction & Investments, Inc. provides straightforward answers based on years of experience.\n\nQ: How much does a home remodel cost?\nA: Home remodel costs vary widely based on scope, materials, and location. A minor kitchen remodel typically costs $25,000-$40,000, while a major renovation can range from $60,000-$150,000+. Bathroom remodels average $15,000-$35,000. Room additions cost $150-$300 per square foot. The best way to get an accurate estimate is to schedule a free consultation with a licensed contractor who can assess your specific project.\n\nQ: How long does a home renovation take?\nA: Typical timelines: bathroom remodel 3-6 weeks, kitchen remodel 6-12 weeks, room addition 3-6 months, whole-home renovation 4-8 months. Factors that affect timeline include permit approval times, material availability, project complexity, and weather conditions. Your contractor should provide a detailed project schedule with milestones before work begins.\n\nQ: Do I need a permit for my remodeling project?\nA: Most structural modifications, electrical work, plumbing changes, and additions require building permits. Cosmetic updates like painting, flooring replacement, and cabinet refacing typically do not. Your contractor should determine which permits are required and handle all applications and inspections. Skipping required permits can result in fines, forced removal of work, and problems when selling your home.\n\nHave more questions? Call Y.O.R. Construction & Investments, Inc. at 1-888-457-7746 for a personalized consultation.",
+      "author": {
+        "@type": "Organization",
+        "name": "Y.O.R. Construction & Investments, Inc."
+      }
+    }
+  }
+}
