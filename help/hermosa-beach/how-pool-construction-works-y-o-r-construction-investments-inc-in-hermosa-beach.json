@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How Pool Construction Works — Y.O.R. Construction & Investments, Inc. in Hermosa Beach",
+  "description": "Understanding the Pool Construction process helps you make informed decisions and know what to expect at every stage. YOR Construction & Investments, Inc. is a versatile construction company specializ",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Initial consultation and design",
+      "text": "The initial consultation is where your project vision takes shape. A qualified contractor visits your property to assess the existing conditions, discuss your goals, and provide expert recommendations. This includes measuring the space, identifying potential challenges like structural modifications or code requirements, reviewing material options, and creating a preliminary design concept. A detailed written estimate with itemized costs ensures transparency before any work begins."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Planning and permits",
+      "text": "Proper planning prevents costly mistakes. This phase includes finalizing architectural plans, selecting materials and finishes, obtaining necessary building permits from your local municipality, and scheduling subcontractors. A reputable contractor handles all permit applications and ensures the project design meets current building codes. The timeline, payment schedule, and scope of work are documented in a detailed contract that protects both parties."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Construction phase",
+      "text": "During construction, your contractor manages all aspects of the project including coordinating subcontractors, ordering materials, maintaining quality control, and keeping the project on schedule. Regular communication through progress photos, weekly updates, and on-site meetings keeps you informed at every stage. Professional contractors maintain a clean, safe work site and take measures to protect your home and belongings from construction dust and damage."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Final walkthrough and warranty",
+      "text": "The final walkthrough is your opportunity to inspect every detail of the completed work with your contractor. Any punch-list items are documented and addressed before the project is considered complete. A reputable contractor provides a written warranty covering workmanship, typically ranging from 1-10 years depending on the scope of work. Manufacturer warranties on materials and equipment are transferred to you with all documentation."
+    }
+  ]
+}
