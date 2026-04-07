@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Y.O.R. Construction & Investments, Inc. - Roofing",
+  "description": "Professional Roofing services in Alta Loma. YOR Construction & Investments, Inc. is a versatile construction company specializing in residential and commercial projects across Southern California. They offer a wide range of services from comprehensive home remodeling and additions to commercial construction, distinguishing themselves with seamless teamwork and integrated design/build solutions tailored to client needs.",
+  "url": "https://yorconstruction.com",
+  "telephone": "1-888-457-7746",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Alta Loma"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Alta Loma"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Roofing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roofing"
+        }
+      }
+    ]
+  }
+}
