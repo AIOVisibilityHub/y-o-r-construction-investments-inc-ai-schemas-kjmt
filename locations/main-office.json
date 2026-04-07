@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Y.O.R. Construction & Investments, Inc. - Main Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12135 Miranda St",
+    "addressLocality": "Valley Village",
+    "addressRegion": "CA",
+    "postalCode": "91607"
+  },
+  "telephone": "1 888-457-7746",
+  "url": "https://yorconstruction.com"
+}

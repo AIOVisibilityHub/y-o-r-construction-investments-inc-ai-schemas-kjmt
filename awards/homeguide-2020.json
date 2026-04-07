@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "HomeGuide 2020",
+  "datePublished": "2020",
+  "provider": {
+    "@type": "Organization",
+    "name": "HomeGuide"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Y.O.R. Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "award": "HomeGuide 2020"
+}

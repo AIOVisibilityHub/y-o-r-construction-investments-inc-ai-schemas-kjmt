@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Larry Kenjoshua"
+  },
+  "reviewBody": "This company is one of the most professional builders I could have found. They took care of every need & want I could have had. They were very attentive and always put their best foot forward when handling the customer. Thank you again for my beautiful home!",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Y.O.R. Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

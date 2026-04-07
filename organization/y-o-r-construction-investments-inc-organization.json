@@ -1,0 +1,344 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Y.O.R. Construction & Investments, Inc.",
+  "url": "https://yorconstruction.com",
+  "description": "YOR Construction & Investments, Inc. is a versatile construction company specializing in residential and commercial projects across Southern California. They offer a wide range of services from comprehensive home remodeling and additions to commercial construction, distinguishing themselves with seamless teamwork and integrated design/build solutions tailored to client needs.",
+  "telephone": "1-888-457-7746",
+  "logo": "https://yorconstruction.com/wp-content/uploads/2019/04/YOR-revised.png",
+  "sameAs": [
+    "https://www.facebook.com/yorconstruction",
+    "https://www.instagram.com/yor_construction/",
+    "https://www.youtube.com/channel/UCowQXzo4-GycmgiK9lJN4EQ",
+    "https://www.houzz.com/pro/y-o-r-construction/yor-construction-and-investments"
+  ],
+  "legalName": "Y.O.R. Construction & Investments, Inc.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Alta Loma"
+    },
+    {
+      "@type": "City",
+      "name": "Athens"
+    },
+    {
+      "@type": "City",
+      "name": "Baldwin Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Bell Gardens"
+    },
+    {
+      "@type": "City",
+      "name": "Bellflower"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas & Topanga"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Country"
+    },
+    {
+      "@type": "City",
+      "name": "Carson"
+    },
+    {
+      "@type": "City",
+      "name": "Castaic"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Chino"
+    },
+    {
+      "@type": "City",
+      "name": "Compton"
+    },
+    {
+      "@type": "City",
+      "name": "Corona"
+    },
+    {
+      "@type": "City",
+      "name": "Culver City"
+    },
+    {
+      "@type": "City",
+      "name": "Downey"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Florence"
+    },
+    {
+      "@type": "City",
+      "name": "Gardena"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Harbor City"
+    },
+    {
+      "@type": "City",
+      "name": "Hawthorne"
+    },
+    {
+      "@type": "City",
+      "name": "Hermosa Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Huntington Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hyde Park"
+    },
+    {
+      "@type": "City",
+      "name": "Inglewood"
+    },
+    {
+      "@type": "City",
+      "name": "La Mirada"
+    },
+    {
+      "@type": "City",
+      "name": "La Verne"
+    },
+    {
+      "@type": "City",
+      "name": "Lawndale"
+    },
+    {
+      "@type": "City",
+      "name": "Leimert Park"
+    },
+    {
+      "@type": "City",
+      "name": "Lomita"
+    },
+    {
+      "@type": "City",
+      "name": "Los Feliz"
+    },
+    {
+      "@type": "City",
+      "name": "Lynwood"
+    },
+    {
+      "@type": "City",
+      "name": "Manhattan Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Maywood"
+    },
+    {
+      "@type": "City",
+      "name": "Moorpark"
+    },
+    {
+      "@type": "City",
+      "name": "Newhall"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Oxnard"
+    },
+    {
+      "@type": "City",
+      "name": "Pacoima"
+    },
+    {
+      "@type": "City",
+      "name": "Paramount"
+    },
+    {
+      "@type": "City",
+      "name": "Pico Rivera"
+    },
+    {
+      "@type": "City",
+      "name": "Port Hueneme"
+    },
+    {
+      "@type": "City",
+      "name": "Redondo Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "San Dimas"
+    },
+    {
+      "@type": "City",
+      "name": "San Pedro"
+    },
+    {
+      "@type": "City",
+      "name": "Windsor Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Woodland Hills"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Y.O.R. Construction & Investments, Inc. Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Home Additions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Bathroom Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Kitchen Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pool Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patios & Decks"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patio Enclosures & Covers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roofing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cement and Concrete"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Stucco Contractor"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Exterior Painting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Seismic Retrofitting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Contractor"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Full House Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Accessory Dwelling Unit (ADU)"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Granny Flat Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Design/Build Services"
+        }
+      }
+    ]
+  }
+}

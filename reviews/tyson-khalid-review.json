@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Tyson Khalid"
+  },
+  "reviewBody": "Exceptionally talented , organised and master construction experts! Made my life super easy with an amazing home renovations work around my place , the seriousness and brilliance exhibited was none I have ever experienced before and I would definitely get them again at my place for any renovations I might have . They deserve all the recommendations they have",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Y.O.R. Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Home Renovations"
+      }
+    }
+  }
+}

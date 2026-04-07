@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Simon Linsey"
+  },
+  "reviewBody": "We recently completed a kitchen remodeling project and had an outstanding experience. The company is extremely professional. My wife and I will definitely hire them again for our next project. 5 stars!",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Y.O.R. Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Kitchen Remodeling"
+      }
+    }
+  }
+}
