@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "name": "YOR Construction - Los Angeles South",
+  "url": "https://yorconstruction.com/locations/los-angeles-south",
+  "telephone": "+1-888-457-7746",
+  "email": "y.o.r.construction@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5848 Overhill Dr, Unit 2",
+    "addressLocality": "Los Angeles",
+    "addressRegion": "CA",
+    "postalCode": "90043",
+    "addressCountry": "US"
+  }
+}
+</script>
